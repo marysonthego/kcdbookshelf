@@ -15,6 +15,7 @@ and ReactDOM and use them to create React elements, and render those to a `div`.
 Production deploys:
 
 - [Exercise](https://exercises-01-bootstrap.bookshelf.lol/exercise)
+
 - [Final](https://exercises-01-bootstrap.bookshelf.lol/)
 
 👨‍💼 I'm excited to get started with you! Let's start out by rendering our awesome
